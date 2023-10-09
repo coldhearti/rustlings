@@ -1,3 +1,5 @@
+Solved these in a weekend, interesting language.
+
 <div class="oranda-hide">
 
 # rustlings 🦀❤️
